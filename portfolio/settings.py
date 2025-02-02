@@ -7,7 +7,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+SECRET_KEY = 'cheie gg'
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
