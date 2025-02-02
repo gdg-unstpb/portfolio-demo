@@ -1,1 +1,5 @@
+# Ignore cvenv in multiple ways
+cvenv
 cvenv/
+**/cvenv
+**/cvenv/**
